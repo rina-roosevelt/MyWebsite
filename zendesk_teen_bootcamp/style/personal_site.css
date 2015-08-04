@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background: url("https://secure.static.tumblr.com/ec7c058b81349b14bb9baeb0bfb6f070/wtvo4bp/luFmxlouh/tumblr_static_image-fascinating-images-from-outer-space-update-dec_4958696.jpg");
+    color: #FFFFFF;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+nav {
+    font-size: 24px;
+    text-align: left;
+    display: block;
+    float: left;
+    position: absolute;
+}
+
+input {
+    border: 0;
+    padding: 12px;
+    font-size: 18px;
+}
+input[type="submit"] {
+    background: limegreen;
+    color: black;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-family: "Comic Sans MS", cursive, sans-serif;  
+}
+a:hover { 
+    color: red;
+}
+h2 {
+    font-size: 30px;
+    text-align: right;
+}
+
+img {
+    float: center;
+}
+
+
+
+
+
+
+
+
+
+
+
